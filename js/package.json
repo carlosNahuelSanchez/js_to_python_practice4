@@ -1,0 +1,11 @@
+{
+  "name": "js_to_python_4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
